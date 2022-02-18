@@ -1,0 +1,5 @@
+CREATE TABLE EMPLOYEE (
+id int  auto_increment PRIMARY KEY ,
+name VARCHAR(255) NOT NULL,
+address VARCHAR(255) NOT NULL
+);
